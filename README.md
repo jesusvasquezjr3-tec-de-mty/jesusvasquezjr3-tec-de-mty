@@ -14,7 +14,7 @@
 
 ---
 
-Aquí en este perfil podrás encontrar los proyectos de mi carrera de Ingeniería Biomédica en el Tecnológico de Monterrey, todo mi trabajo **destacado** realizado a lo largo de mi trayectoria como estudiante. 
+Aquí en este perfil podrás encontrar los proyectos de mi carrera de Ingeniería Biomédica en el Tecnológico de Monterrey, todo mi trabajo **destacado** realizado a lo largo de mi trayectoria como estudiante (al menos la mayor parte ;v hay otros que por razones de licencia no están visibles de forma **pública**).
 
 ---
 
